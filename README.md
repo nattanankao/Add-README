@@ -1,13 +1,13 @@
 ## โครงการหุ่นยนต์กู้ภัย
 
 ## คำอธิบาย
-This project demonstrates multiple inheritance in Java using interfaces and composition.
+โปรเจกต์นี้สาธิตการสืบทอดแบบหลายทางในภาษา Java โดยใช้อินเทอร์เฟซและการประกอบ (composition)
 
 ## คุณสมบัติ
-- Fly capability
-- Drive capability
-- Thermal sensing
-- Communication module
+- ความสามารถในการบิน
+- ความสามารถในการขับขี่
+- การตรวจจับความร้อน
+- โมดูลการสื่อสาร
 
 ## วิธีการเรียกใช้งาน
 1. Compile:
