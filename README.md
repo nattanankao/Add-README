@@ -5,7 +5,7 @@
 -ใช้ implements ได้หลาย interface
 -ใช้ composition คือ มี object อยู่ข้างใน (has-a)
 
-## default method ชื่อชนกันแก้ยังไง
+## อธิบํายกํารแก้ปัญหํา default method ชื่อชนกัน
 ต้อง override เอง แล้วเลือกว่าจะใช้ของ interface ไหน
 
 ## ผู้เขียน
