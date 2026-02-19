@@ -1,19 +1,21 @@
-# Rescue Robot Project
+#โครงการหุ่นยนต์กู้ภัย
 
-## Description
+## คำอธิบาย
 This project demonstrates multiple inheritance in Java using interfaces and composition.
 
-## Features
+## คุณสมบัติ
 - Fly capability
 - Drive capability
 - Thermal sensing
 - Communication module
 
-## How to Run
+## วิธีการเรียกใช้งาน
 1. Compile:
 javac *.java
 2. Run:
 java Main
 
-## Author
-Kunyanuth Kularbphettong
+## ผู้เขียน
+นายณัฏฐนัน นามสกุล เอ่งฉ้วน
+Nattanan Aengchuan
+68122250001
