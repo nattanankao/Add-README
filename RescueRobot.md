@@ -24,18 +24,18 @@
 ---
 
 ## System Design
-# Flyable
+### Flyable
 - void takeOff();
 - void land();
 - double maxAltitude();
-# Drivable
+### Drivable
 - void startEngine();
 - void stopEngine();
 - double maxSpeed();
-# ThermalSensor
+### ThermalSensor
 - double readTemperatureC();
 - boolean detectHuman(double thresholdC);
-# Communicable
+### Communicable
 - void send(String message);
 - String getDeviceId();
 
