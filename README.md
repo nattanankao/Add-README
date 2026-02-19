@@ -1,8 +1,3 @@
----
-
-## ตัวอย่ําง README.md
-
-```markdown
 # Rescue Robot Project
 
 ## Description
